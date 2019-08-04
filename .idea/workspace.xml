@@ -2,172 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caae7c81-154e-4f8b-b0d8-74f555730d9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.ids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/024b15c6-dce9-4c14-b66a-2abec35f1236.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__songleader_pocket.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__songleader_pocket.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__songleader_pocket.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__songleader_pocket.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/songleader-pocket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/categories.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/pitches.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/songbook.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/songlist.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/songs.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/categories.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/pitches.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/songbook.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/songlist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/songs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/categories_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/pitches_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/songbooks_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/songlists_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/songs_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/categories_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/pitches_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/songbook_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/songlist_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/songs_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/category.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/pitch.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/song.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/songbook.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/songlist.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/songlist_song.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/categories/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/categories/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pitches/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pitches/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pitches/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songbooks/create.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songbooks/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songbooks/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songbooks/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songlists/create.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songlists/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songlists/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songlists/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songs/create.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songs/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songs/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/songs/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/spring" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/update" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/cable.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/new_framework_defaults.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/spring.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db planning.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161119132557_create_songs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161119132633_create_categories.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161120032612_add_pitch_and_song_number_to_songs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161120033028_create_pitches.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161120230755_create_songbooks.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161120231116_create_songlists.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161202185919_add_songbook_to_songs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161202193426_add_songbook_id_to_songs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20161202193525_remove_songbook_from_songs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190726192643_change_songlist_service_type_to_string.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190726193009_add_songlist_service_type.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190726193315_add_current_list_to_songlist.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190726194025_songs_in_songlists.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/tasks/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/422.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite3-1.3.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/categories_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/pitch_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/songbook_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/songlist_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/songs_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/categories.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/pitches.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/songbooks.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/songlists.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/songs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/helpers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/integration/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mailers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/category_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/pitch_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/song_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/songbook_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/songlist_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/songlists/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/songlists/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/songlists/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/songlists/new.html.erb" afterDir="false" />
     </list>
     <ignored path="songleader-pocket.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -198,16 +39,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="RHTML" value="37" />
-          <entry key="Ruby" value="30" />
+          <entry key="RHTML" value="38" />
+          <entry key="Ruby" value="31" />
+          <entry key="SCSS" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="CSS" value="2" />
+          <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="RHTML" value="335" />
-          <entry key="Ruby" value="636" />
+          <entry key="RHTML" value="355" />
+          <entry key="Ruby" value="715" />
+          <entry key="SCSS" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -229,17 +76,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/songlists_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/songlists/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="465">
+              <caret line="30" selection-start-line="30" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -254,19 +101,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/songs/new.html.erb">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="612">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="367">
+              <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/songlist.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/songlists/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -277,6 +159,7 @@
     <findStrings>
       <find>permit</find>
       <find>toggle_selected_path</find>
+      <find>jquery</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -308,7 +191,6 @@
         <option value="$PROJECT_DIR$/app/models/songbook.rb" />
         <option value="$PROJECT_DIR$/app/controllers/categories_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/categories/show.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/songbook_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/songs/new.html.erb" />
@@ -318,7 +200,6 @@
         <option value="$PROJECT_DIR$/app/views/songlist/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/songs_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/songs/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/songlists/index.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20190726192643_change_songlist_service_type_to_string.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190726193009_add_songlist_service_type.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20190726193315_add_current_list_to_songlist.rb" />
@@ -328,8 +209,13 @@
         <option value="$PROJECT_DIR$/app/models/songlist_song.rb" />
         <option value="$PROJECT_DIR$/app/views/songlists/show.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/songlists_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/songlists/new.html.erb" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/views/songlists/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/songlists/index.html.erb" />
       </list>
     </option>
   </component>
@@ -339,11 +225,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1520" />
-    <option name="y" value="-83" />
-    <option name="width" value="1440" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="217" />
+    <option name="y" value="23" />
+    <option name="width" value="1223" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -363,6 +249,26 @@
               <item name="songleader-pocket" type="b2602c69:ProjectViewProjectNode" />
               <item name="songleader-pocket" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="songleader-pocket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="songleader-pocket" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="songleader-pocket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="songleader-pocket" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="songleader-pocket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="songleader-pocket" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="songleader-pocket" type="b2602c69:ProjectViewProjectNode" />
@@ -429,7 +335,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="songlist&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/controllers/songlist_controller.rb&#10;contro&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/controllers/songs_controller.rb&#10;sho&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/songs/show.html.erb&#10;rou&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;show&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/songs/show.html.erb&#10;appli&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/layouts/application.html.erb&#10;index&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/songs/index.html.erb&#10;routes&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;ro&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;rout&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;application&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/layouts/application.html.erb" />
+    <property name="SearchEverywhereHistoryKey" value="application.js&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/assets/javascripts/application.js&#10;songlist&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/controllers/songlist_controller.rb&#10;contro&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/controllers/songs_controller.rb&#10;sho&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/songs/show.html.erb&#10;rou&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;show&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/songs/show.html.erb&#10;appli&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/layouts/application.html.erb&#10;index&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/songs/index.html.erb&#10;routes&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;ro&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;rout&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/config/routes.rb&#10;application&#9;FILE&#9;file:///Users/twitherington/repos/songleader-pocket/app/views/layouts/application.html.erb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -537,15 +443,15 @@
       <workItem from="1550500254994" duration="8558000" />
       <workItem from="1550895442195" duration="2786000" />
       <workItem from="1563218129584" duration="3662000" />
-      <workItem from="1563367767675" duration="18984000" />
+      <workItem from="1563367767675" duration="20079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64892000" />
+    <option name="totallyTimeSpent" value="65987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1520" y="-83" width="1440" height="820" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" id="Project" order="0" visible="true" weight="0.22818312" />
@@ -605,18 +511,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/songs_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/songbook_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/categories_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/pitch.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -681,13 +575,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db planning.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -793,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songlists/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20161202193426_add_songbook_id_to_songs.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -883,6 +763,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/songlists/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/songlist.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/songlist.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -892,29 +820,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/songlists_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/songlists/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/songlists/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="51" />
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/songlists/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="465">
+          <caret line="30" selection-start-line="30" selection-end-line="37" />
         </state>
       </provider>
     </entry>
