@@ -1,0 +1,9 @@
+<h1>Songbook</h1>
+<h2> <%= @songbook.name %> </h2>
+<ul>
+  <% @songbook.songs.each do |songs| %>
+      <li><%= songs.name %></li>
+<% end %>
+</ul>
+
+<p><%= link_to "Back to Song Books", songbook_index_path %></p>

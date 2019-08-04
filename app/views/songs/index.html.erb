@@ -1,0 +1,14 @@
+<h1>Songs</h1>
+<table>
+  <tr>
+    <th>Song Name</th>
+    <th>Selected for Song List?</th>
+  </tr>
+  <% @songs.each do |songs| %>
+    <tr>
+      <td><%= link_to songs.name, songs %></td>
+      <td><%= songs.selected %></td>
+    </tr>
+  <% end %>
+</table>
+<p><%= link_to 'New Song', new_song_path %></p>

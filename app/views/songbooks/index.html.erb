@@ -1,0 +1,6 @@
+<h1>Song Books</h1>
+<ul>
+  <% @songbooks.each do |songbook| %>
+  <li><%= link_to songbook.name, songbook%> (<%= songbook.songs.count %>)</li>
+  <% end %>
+</ul>

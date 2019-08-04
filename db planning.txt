@@ -1,0 +1,62 @@
+    weekday = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri']
+    weekend = ['Sun', 'Sat']
+
+
+    I’ve been scanning twitter for the latest news, although at this point its still about what happened last night: https://twitter.com/search?f=tweets&vertical=news&q=gatlinburg%20fire&src=typd
+
+    2 + 1 * 21 + 3
+
+    piano
+    tuba
+    baratone sax
+    recorder
+
+    steve / rebecca helden 865-654-0228
+
+
+    @ChrisLong @ShaunHardin @TravisWitherington $JOB_NAME #$BUILD_NUMBER $STATUS after $DURATION Open at: $URL
+
+    jrolston@covermymeds.com engineeringmanagers@covermymeds.com shardin@covermymeds.com
+
+Database
+  myrecipes
+    recipes
+      belongs_to :chef
+      has_many :likes, dependent: :destroy
+      has_many :recipe_styles, dependent: :destroy
+      has_many :styles, through: :recipe_styles
+      has_many :recipe_ingredients, dependent: :destroy
+      has_many :ingredients, through: :recipe_ingredients
+    chefs
+      has_many :recipes
+      has_many :likes
+    ingredients
+      has_many :recipe_ingredients
+      has_many :recipes, through: :recipe_ingredients
+    likes
+      belongs_to :chef
+      belongs_to :recipe
+    recipe_ingredients
+      belongs_to :recipe
+      belongs_to :ingredient
+    recipe_styles
+      belongs_to :recipe
+      belongs_to :style
+    styles
+        has_many :recipe_styles
+        has_many :recipes, through: :recipe_styles
+
+  songleaders-pocket
+    songs
+      belongs_to :songleader
+      has_one :pitch
+      has_many :categories
+    songleader
+    songbook
+    pitches
+    selected
+    songbook_songs
+    song_categories
+    categories
+  additional_tables
+    selected_songs

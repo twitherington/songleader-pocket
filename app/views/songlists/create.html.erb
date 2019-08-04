@@ -1,0 +1,17 @@
+<h1>Song List</h1>
+
+<%= form_for :songlists do |f| %>
+    <p>
+      <%= f.label :name %><br>
+      <%= f.text_field :name %>
+    </p>
+
+    <p>
+      <%= f.label :service_type %><br>
+      <%= f.text_area :service_type %>
+    </p>
+
+    <p>
+      <%= f.submit %>
+    </p>
+<% end %>

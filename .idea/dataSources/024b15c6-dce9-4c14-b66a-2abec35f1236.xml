@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Rails songleader-pocket: development">
+  <database-model serializer="dbm" rdbms="SQLITE" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1">
+      <Visible>1</Visible>
+    </schema>
+    <table id="3" parent="2" name="ar_internal_metadata"/>
+    <table id="4" parent="2" name="categories"/>
+    <table id="5" parent="2" name="pitches"/>
+    <table id="6" parent="2" name="schema_migrations"/>
+    <table id="7" parent="2" name="songbooks"/>
+    <table id="8" parent="2" name="songlists"/>
+    <table id="9" parent="2" name="songs"/>
+    <table id="10" parent="2" name="sqlite_sequence"/>
+    <column id="11" parent="3" name="key">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="12" parent="3" name="value">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+    </column>
+    <column id="13" parent="3" name="created_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="14" parent="3" name="updated_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="15" parent="3">
+      <ColNames>key</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="16" parent="4" name="id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="17" parent="4" name="name">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+    </column>
+    <column id="18" parent="4" name="created_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="19" parent="4" name="updated_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="20" parent="4">
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="21" parent="5" name="id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="22" parent="5" name="name">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+    </column>
+    <column id="23" parent="5" name="created_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="24" parent="5" name="updated_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="25" parent="5">
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="26" parent="6" name="version">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="27" parent="6">
+      <ColNames>version</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="28" parent="7" name="id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="29" parent="7" name="name">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+    </column>
+    <column id="30" parent="7" name="created_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="31" parent="7" name="updated_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="32" parent="7">
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="33" parent="8" name="id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="34" parent="8" name="name">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+    </column>
+    <column id="35" parent="8" name="service_type">
+      <DataType>INTEGER(0,-1)|4</DataType>
+    </column>
+    <column id="36" parent="8" name="created_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="37" parent="8" name="updated_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="38" parent="8">
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="39" parent="9" name="id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="40" parent="9" name="name">
+      <DataType>VARCHAR(0,-1)|12</DataType>
+    </column>
+    <column id="41" parent="9" name="selected">
+      <DataType>BOOLEAN(0,-1)|4</DataType>
+    </column>
+    <column id="42" parent="9" name="category_id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+    </column>
+    <column id="43" parent="9" name="created_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="44" parent="9" name="updated_at">
+      <DataType>DATETIME(0,-1)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="45" parent="9" name="song_number">
+      <DataType>INTEGER(0,-1)|4</DataType>
+    </column>
+    <column id="46" parent="9" name="pitch_id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+    </column>
+    <column id="47" parent="9" name="songbook_id">
+      <DataType>INTEGER(0,-1)|4</DataType>
+    </column>
+    <key id="48" parent="9">
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="49" parent="10" name="name">
+      <DataType>(0,-1)|12</DataType>
+    </column>
+    <column id="50" parent="10" name="seq">
+      <DataType>(0,-1)|12</DataType>
+    </column>
+  </database-model>
+</dataSource>

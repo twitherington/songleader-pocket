@@ -1,0 +1,13 @@
+<h1><%= @song.name %></h1>
+<%= @song.song_number %>
+<% if @song.pitch_id %>
+  <p>Pitch: <%= @pitch.name %></p>
+<% end %>
+
+<% if @song.selected? %>
+  <p>This song is selected for your song list.</p>
+<% end %>
+
+<p><%= link_to "Select/Deselect Song", toggle_selected_path(@song) %></p>
+
+<p><%= link_to "Back to Songs", songs_path %></p>

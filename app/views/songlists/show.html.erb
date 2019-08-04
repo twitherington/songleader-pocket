@@ -1,0 +1,12 @@
+<h1><%= 'Song List: ' + @songlists.name %></h1>
+
+<%= @songlists.service_type %>
+
+<div>
+    <div class='category-actions'>
+      <%= link_to 'Edit', edit_songlist_path(@songlists.id), class: 'btn btn-xs btn-primary' %>
+    </div>
+</div>
+<%#= render 'articles/article', obj: @category_articles %>
+
+<p><%= link_to 'Back to Song Lists', songlists_path %></p>
